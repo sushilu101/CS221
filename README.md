@@ -11,4 +11,4 @@ Authors: Pranav Upadhyayula, Michael Du, Sushil Upadhyayula
     LSTM_data_collection.py   <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the code we used to get the vertical distance between lips that we input into our LSTM
     
     
-***Note: Github says there might be some issues viewing the .ipynb file so it may be better to download it and open it with Jupyter ***
+**Note: Github says there might be some issues viewing the .ipynb file so it may be better to download it and open it with Jupyter**
